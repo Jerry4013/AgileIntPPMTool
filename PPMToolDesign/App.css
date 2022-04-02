@@ -2,22 +2,9 @@ img {
   width: 100%;
 }
 
-.text-underline-hover {
-  text-decoration: none;
-}
-
-.text-underline-hover:hover {
-  text-decoration: underline;
-}
-
 .navbar {
   background-color: #e3f2fd;
 }
-
-.fa.fa-flag-checkered {
-  color: deepskyblue;
-}
-
 .fa.fa-edit {
   color: #18a2b9;
 }
